@@ -10,5 +10,4 @@
 - Reach me at my email, listed in my bio if you want to know more about me or contact me in general
 - Other non-software related interest are playing my instruments(violin, bass, guitar, etc), playing video games, and small-scale robotics projects
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshMendiola)](https://github.com/anuraghazra/github-readme-stats)
