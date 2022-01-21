@@ -1,4 +1,4 @@
-## Hello from Austin ! :) 🥳
+## Hello from Austin ! :)
 
 ### a little bit about Joshua Mendiola
 - Pronouns are he/him
