@@ -7,6 +7,5 @@
   develop projects. I also enjoy developing plugins for my minecraft server, and using them with my close friends and gaming colleagues
 - Im looking to develop in the fields of data science and backend development, but UI/UX development is also an incredibly interesting topic to me
 - For more information, send me an email using the email in my bio
-- Other non-software related interest are playing my instruments(violin, bass, guitar, etc), playing video games, and small-scale robotics projects
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshMendiola)](https://github.com/anuraghazra/github-readme-stats)
