@@ -6,4 +6,4 @@
   develop projects. I enjoy [mobile app development](https://github.com/JoshMendiola/Tlaloc), [serverside development](https://github.com/JoshMendiola/JoServer), [React projects](https://github.com/JoshMendiola/JoBlog), [embedded systems](https://github.com/JoshMendiola/PingPongPower), and developing [plugins for my minecraft server](https://github.com/JoshMendiola/BlockHunt)
 - For more information, you can send me an email through my bio !!!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshMendiola)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshMendiola&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
