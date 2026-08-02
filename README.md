@@ -15,4 +15,4 @@
   and the occasional Minecraft plugin.
 - For more information, you can send me an email through my bio !!!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshMendiola&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=JoshMendiola&theme=vision-friendly-dark)](https://github.com/stats-organization/github-stats-extended)
