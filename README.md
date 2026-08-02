@@ -1,9 +1,18 @@
-## Hello from Austin ! :) (He/Him)
+## Hello from Austin! :) (He/Him)
 
 ### a little bit about Joshua Mendiola
-- I love learning new programming concepts and tools, i'm chronically playing with new frameworks, languages, ETC
-- In my freetime, as of now, im using my time outside of class to
-  develop projects. I enjoy [mobile app development](https://github.com/JoshMendiola/Tlaloc), [serverside development](https://github.com/JoshMendiola/JoServer), [React projects](https://github.com/JoshMendiola/JoBlog), [embedded systems](https://github.com/JoshMendiola/PingPongPower), and developing [plugins for my minecraft server](https://github.com/JoshMendiola/BlockHunt)
+
+- Software engineer working in enterprise payments. integrations, migrations,
+  and the middleware that actually moves money between systems. Mostly Python,
+  Go, and TypeScript, plus a lot of time spent living inside other people's APIs.
+- I love learning new programming concepts and tools, and I'm chronically playing
+  with new frameworks and languages. Recent rabbit holes: Rust, Swift, and ML tooling.
+- Outside of work I build things for the fun of it 
+  [mobile apps](https://github.com/JoshMendiola/Tlaloc),
+  [ML security projects](https://github.com/JoshMendiola/Cicada),
+  [network tooling](https://github.com/JoshMendiola/SnoopyPacketLogger),
+  [full-stack side projects](https://github.com/JoshMendiola/MoJoRepair),
+  and the occasional Minecraft plugin.
 - For more information, you can send me an email through my bio !!!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshMendiola&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
